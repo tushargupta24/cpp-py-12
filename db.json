@@ -1,0 +1,111 @@
+{
+    "cpp-qp-12":[
+        {
+        "id":1,
+        "subject":"cpp",
+        "image":"cpp",
+        "description":"Computer Science - 2015 Outside Exam set-4",
+        "download":"assets/images/exam-12/cpp-12/cpp-2015-outside-set-4.pdf",
+        "view":"assets/images/exam-12/cpp-12/cpp-2015-outside-set-4.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":2,
+        "subject":"cpp",
+        "image":"cpp",
+        "description":"Computer Science 2016 Main Exam set-4",
+        "download":"assets/images/exam-12/cpp-12/cpp-2015-set-4.pdf",
+        "view":"assets/images/exam-12/cpp-12/cpp-2015-set-4.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":3,
+        "subject":"cpp",
+        "image":"cpp",
+        "description":"Computer Science 2016 Outside Exam set-4",
+        "download":"assets/images/exam-12/cpp-12/cpp-2016-outside-set-4.pdf",
+        "view":"assets/images/exam-12/cpp-12/cpp-2016-outside-set-4.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":4,
+        "subject":"cpp",
+        "image":"cpp",
+        "description":"Computer Science 2016 Main Exam set-4",
+        "download":"assets/images/exam-12/cpp-12/cpp-2016-set-4.pdf",
+        "view":"assets/images/exam-12/cpp-12/cpp-2016-set-4.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      }, {
+        "id":5,
+        "subject":"cpp",
+        "image":"cpp",
+        "description":"Computer Science 2017 Outside Exam set-1",
+        "download":"assets/images/exam-12/cpp-12/cpp-2017-outside-set-1.pdf",
+        "view":"assets/images/exam-12/cpp-12/cpp-2017-outside-set-1.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":6,
+        "subject":"cpp",
+        "image":"cpp",
+        "description":"Computer Science 2017 Main Exam set-1",
+        "download":"assets/images/exam-12/cpp-12/cpp-2017-set-1.pdf",
+        "view":"assets/images/exam-12/cpp-12/cpp-2017-set-1.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":7,
+        "subject":"cpp",
+        "image":"cpp",
+        "description":"Computer Science 2018 Main Exam set-4",
+        "download":"assets/images/exam-12/cpp-12/cpp-2018-set-4.pdf",
+        "view":"assets/images/exam-12/cpp-12/cpp-2018-set-4.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":8,
+        "subject":"cpp",
+        "image":"cpp",
+        "description":"Computer Science 2018 Compartment Exam set-4",
+        "download":"assets/images/exam-12/cpp-12/cpp-2018-comp-set-4.pdf",
+        "view":"assets/images/exam-12/cpp-12/cpp-2018-comp-set-4.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":9,
+        "subject":"cpp",
+        "image":"cpp",
+        "description":"Computer Science 2019  Question Paper set-1",
+        "download":"assets/images/exam-12/cpp-12/cpp-2019-set-1.pdf",
+        "view":"assets/images/exam-12/cpp-12/cpp-2019-set-1.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      }, {
+        "id":10,
+        "subject":"cpp",
+        "image":"cpp",
+        "description":"Computer Science 2022 Previous Year Question Paper set-4",
+        "download":"assets/images/exam-12/cpp-12/cpp-2022-set-4.pdf",
+        "view":"assets/images/exam-12/cpp-12/cpp-2022-set-4.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      }
+    ]
+}
